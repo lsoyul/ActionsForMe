@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D329E8BA-410D-EAC4-96E9-4D9065D33ED9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ActionsForMe",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
